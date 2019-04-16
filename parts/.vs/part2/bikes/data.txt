@@ -1,0 +1,21 @@
+E:\algorithm\parts\part2\bikes\img1.ppm##########E:\algorithm\parts\part2\bikes\img2.ppm
+fastMatch size:379
+H1to2p
+minCount£º962
+correspondencesCount£º151
+correctMatch204
+falseMatch175
+E:\algorithm\parts\part2\bikes\img1.ppm##########E:\algorithm\parts\part2\bikes\img3.ppm
+fastMatch size:154
+H1to3p
+minCount£º962
+correspondencesCount£º50
+correctMatch74
+falseMatch80
+E:\algorithm\parts\part2\bikes\img1.ppm##########E:\algorithm\parts\part2\bikes\img4.ppm
+fastMatch size:0
+H1to4p
+minCount£º962
+correspondencesCount£º6
+correctMatch0
+falseMatch0

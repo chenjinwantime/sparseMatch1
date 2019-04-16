@@ -1,0 +1,35 @@
+E:\algorithm\parts\part2\trees\img1.ppm##########E:\algorithm\parts\part2\trees\img2.ppm
+fastMatch size:2350
+H1to2p
+minCount£º2533
+correspondencesCount£º1935
+correctMatch1446
+falseMatch904
+E:\algorithm\parts\part2\trees\img1.ppm##########E:\algorithm\parts\part2\trees\img3.ppm
+fastMatch size:2159
+H1to3p
+minCount£º2537
+correspondencesCount£º1366
+correctMatch1113
+falseMatch1046
+E:\algorithm\parts\part2\trees\img1.ppm##########E:\algorithm\parts\part2\trees\img4.ppm
+fastMatch size:899
+H1to4p
+minCount£º2538
+correspondencesCount£º275
+correctMatch250
+falseMatch649
+E:\algorithm\parts\part2\trees\img1.ppm##########E:\algorithm\parts\part2\trees\img5.ppm
+fastMatch size:2284
+H1to5p
+minCount£º2538
+correspondencesCount£º10
+correctMatch1
+falseMatch2283
+E:\algorithm\parts\part2\trees\img1.ppm##########E:\algorithm\parts\part2\trees\img5.ppm
+fastMatch size:2284
+H1to6p
+minCount£º2538
+correspondencesCount£º7
+correctMatch1
+falseMatch2283

@@ -1,0 +1,10 @@
+E:\algorithm\parts\part2\notredame12\01.png##########E:\algorithm\parts\part2\notredame12\02.png
+fastMatch size:417
+H1to2p
+E:\algorithm\parts\part2\notredame12\01.png##########E:\algorithm\parts\part2\notredame12\02.png
+fastMatch size:417
+H1to2p
+minCount£º1024
+correspondencesCount£º270
+correctMatch165
+falseMatch252

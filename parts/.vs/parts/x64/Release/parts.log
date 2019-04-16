@@ -1,0 +1,151 @@
+﻿  main.cpp
+e:\algorithm\parts\parts\grid_matcher.h(27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\algorithm\parts\parts\grid_matcher.h(28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\algorithm\parts\parts\grid_matcher.h(31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\algorithm\parts\parts\grid_matcher.h(32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\algorithm\parts\parts\gms_matcher.h(145): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\algorithm\parts\parts\gms_matcher.h(146): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\algorithm\parts\parts\gms_matcher.h(150): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\algorithm\parts\parts\gms_matcher.h(151): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\algorithm\parts\parts\gms_matcher.h(155): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\algorithm\parts\parts\gms_matcher.h(156): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\algorithm\parts\parts\gms_matcher.h(160): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\algorithm\parts\parts\gms_matcher.h(161): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\algorithm\parts\parts\gms_matcher.h(174): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\algorithm\parts\parts\gms_matcher.h(175): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\algorithm\parts\parts\gms_matcher.h(221): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\algorithm\parts\parts\gms_matcher.h(222): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\algorithm\parts\parts\func.h(118): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\algorithm\parts\parts\func.h(129): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\algorithm\parts\parts\func.h(172): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\algorithm\parts\parts\func.h(173): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\algorithm\parts\parts\func.h(174): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\algorithm\parts\parts\func.h(175): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\algorithm\parts\parts\func.h(176): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\algorithm\parts\parts\func.h(177): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\algorithm\parts\parts\func.h(178): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\algorithm\parts\parts\func.h(179): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\algorithm\parts\parts\func.h(180): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\algorithm\parts\parts\func.h(150): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\algorithm\parts\parts\func.h(164): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: 参见“fscanf”的声明
+e:\algorithm\parts\parts\func.h(165): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\algorithm\parts\parts\func.h(165): note: 占位符和其参数预计 8 可变参数，但提供的却是 9 参数
+main.cpp(51): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main.cpp(52): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main.cpp(61): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main.cpp(62): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main.cpp(71): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main.cpp(72): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main.cpp(81): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main.cpp(82): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+main.cpp(89): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+main.cpp(113): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+main.cpp(114): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+main.cpp(115): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+main.cpp(203): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+main.cpp(209): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+main.cpp(211): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+main.cpp(213): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+main.cpp(329): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+main.cpp(345): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+main.cpp(369): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ppl.h(2500): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ppl.h(2558): note: 参见对正在编译的函数 模板 实例化“void Concurrency::_Parallel_for_impl<std::_Index_type,_Function,const Concurrency::auto_partitioner&>(std::_Index_type,std::_Index_type,std::_Index_type,const _Function &,_Partitioner)”的引用
+          with
+          [
+              _Index_type=std::size_t,
+              _Function=GridMatcher::initleft::<lambda_167608e9c0f1406751f03cf19487c011>,
+              _Partitioner=const Concurrency::auto_partitioner &
+          ]
+  D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ppl.h(2632): note: 参见对正在编译的函数 模板 实例化“void Concurrency::parallel_for<std::_Index_type,_Function,const Concurrency::auto_partitioner&>(std::_Index_type,std::_Index_type,std::_Index_type,const _Function &,_Partitioner)”的引用
+          with
+          [
+              _Index_type=std::size_t,
+              _Function=GridMatcher::initleft::<lambda_167608e9c0f1406751f03cf19487c011>,
+              _Partitioner=const Concurrency::auto_partitioner &
+          ]
+  e:\algorithm\parts\parts\grid_matcher.h(43): note: 参见对正在编译的函数 模板 实例化“void Concurrency::parallel_for<std::size_t,GridMatcher::initleft::<lambda_167608e9c0f1406751f03cf19487c011>>(std::_Index_type,std::_Index_type,const _Function &,const Concurrency::auto_partitioner &)”的引用
+          with
+          [
+              _Index_type=std::size_t,
+              _Function=GridMatcher::initleft::<lambda_167608e9c0f1406751f03cf19487c011>
+          ]
+D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ppl.h(1798): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ppl.h(1797): note: 编译类 模板 成员函数“void Concurrency::_Parallel_chunk_helper_invoke<std::_Random_iterator,std::_Index_type,_Function,false>::_Invoke(const _Random_iterator &,_Index_type &,const _Function &)”时
+          with
+          [
+              _Random_iterator=std::size_t,
+              _Index_type=std::_Diff_type,
+              _Function=GridMatcher::initleft::<lambda_167608e9c0f1406751f03cf19487c011>
+          ]
+  D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ppl.h(2182): note: 参见对正在编译的函数 模板 实例化“void Concurrency::_Parallel_chunk_helper_invoke<std::_Random_iterator,std::_Index_type,_Function,false>::_Invoke(const _Random_iterator &,_Index_type &,const _Function &)”的引用
+          with
+          [
+              _Random_iterator=std::size_t,
+              _Index_type=std::_Diff_type,
+              _Function=GridMatcher::initleft::<lambda_167608e9c0f1406751f03cf19487c011>
+          ]
+  D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ppl.h(2182): note: 参见对正在编译的类 模板 实例化“Concurrency::_Parallel_chunk_helper_invoke<std::_Random_iterator,std::_Index_type,_Function,false>”的引用
+          with
+          [
+              _Random_iterator=std::size_t,
+              _Index_type=std::_Diff_type,
+              _Function=GridMatcher::initleft::<lambda_167608e9c0f1406751f03cf19487c011>
+          ]
+  D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ppl.h(2160): note: 编译类 模板 成员函数“void Concurrency::_Parallel_chunk_helper<std::_Index_type,_Index_type,_Function,Concurrency::auto_partitioner,false>::operator ()(void) const”时
+          with
+          [
+              _Index_type=std::size_t,
+              _Function=GridMatcher::initleft::<lambda_167608e9c0f1406751f03cf19487c011>
+          ]
+  D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ppl.h(128): note: 参见对正在编译的函数 模板 实例化“void Concurrency::_Parallel_chunk_helper<std::_Index_type,_Index_type,_Function,Concurrency::auto_partitioner,false>::operator ()(void) const”的引用
+          with
+          [
+              _Index_type=std::size_t,
+              _Function=GridMatcher::initleft::<lambda_167608e9c0f1406751f03cf19487c011>
+          ]
+  D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ppl.h(137): note: 参见对正在编译的类 模板 实例化“Concurrency::_Parallel_chunk_helper<std::_Index_type,_Index_type,_Function,Concurrency::auto_partitioner,false>”的引用
+          with
+          [
+              _Index_type=std::size_t,
+              _Function=GridMatcher::initleft::<lambda_167608e9c0f1406751f03cf19487c011>
+          ]
+  D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ppl.h(2379): note: 参见对正在编译的类 模板 实例化“Concurrency::task_handle<_Worker_class>”的引用
+          with
+          [
+              _Worker_class=_Worker_class
+          ]
+  D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ppl.h(2444): note: 参见对正在编译的函数 模板 实例化“void Concurrency::_Parallel_chunk_impl<_Worker_class,std::_Index_type,std::_Diff_type,_Function,const Concurrency::auto_partitioner&>(const _Random_iterator &,std::_Index_type,const _Index_type &,const _Function &,_Partitioner)”的引用
+          with
+          [
+              _Index_type=std::size_t,
+              _Diff_type=std::_Diff_type,
+              _Function=GridMatcher::initleft::<lambda_167608e9c0f1406751f03cf19487c011>,
+              _Random_iterator=std::size_t,
+              _Partitioner=const Concurrency::auto_partitioner &
+          ]
+  D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ppl.h(2504): note: 参见对正在编译的函数 模板 实例化“void Concurrency::_Parallel_for_partitioned_impl<std::_Index_type,std::_Diff_type,_Function>(std::_Index_type,std::_Diff_type,std::_Diff_type,const _Function &,const Concurrency::auto_partitioner &)”的引用
+          with
+          [
+              _Index_type=std::size_t,
+              _Function=GridMatcher::initleft::<lambda_167608e9c0f1406751f03cf19487c011>,
+              _Diff_type=std::_Diff_type
+          ]
+  D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\ppl.h(2558): note: 参见对正在编译的函数 模板 实例化“void Concurrency::_Parallel_for_impl<std::_Index_type,_Function,const Concurrency::auto_partitioner&>(std::_Index_type,std::_Index_type,std::_Index_type,const _Function &,_Partitioner)”的引用
+          with
+          [
+              _Index_type=std::size_t,
+              _Function=GridMatcher::initleft::<lambda_167608e9c0f1406751f03cf19487c011>,
+              _Partitioner=const Concurrency::auto_partitioner &
+          ]
+  正在生成代码
+  39 of 1223 functions ( 3.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    38 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  parts.vcxproj -> E:\algorithm\parts\x64\Release\parts.exe
+  parts.vcxproj -> E:\algorithm\parts\x64\Release\parts.pdb (Full PDB)

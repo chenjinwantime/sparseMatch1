@@ -1,0 +1,35 @@
+E:\algorithm\parts\part2\leuven\img1.ppm##########E:\algorithm\parts\part2\leuven\img2.ppm
+fastMatch size:768
+H1to2p
+minCount£º885
+correspondencesCount£º591
+correctMatch563
+falseMatch205
+E:\algorithm\parts\part2\leuven\img1.ppm##########E:\algorithm\parts\part2\leuven\img3.ppm
+fastMatch size:700
+H1to3p
+minCount£º885
+correspondencesCount£º439
+correctMatch446
+falseMatch254
+E:\algorithm\parts\part2\leuven\img1.ppm##########E:\algorithm\parts\part2\leuven\img4.ppm
+fastMatch size:604
+H1to4p
+minCount£º885
+correspondencesCount£º345
+correctMatch370
+falseMatch234
+E:\algorithm\parts\part2\leuven\img1.ppm##########E:\algorithm\parts\part2\leuven\img5.ppm
+fastMatch size:517
+H1to5p
+minCount£º885
+correspondencesCount£º265
+correctMatch286
+falseMatch231
+E:\algorithm\parts\part2\leuven\img1.ppm##########E:\algorithm\parts\part2\leuven\img6.ppm
+fastMatch size:379
+H1to6p
+minCount£º885
+correspondencesCount£º164
+correctMatch176
+falseMatch203

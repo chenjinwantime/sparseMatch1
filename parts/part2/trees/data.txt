@@ -1,0 +1,17 @@
+E:\algorithm\parts\part2\trees\img1.ppm##########E:\algorithm\parts\part2\trees\img4.ppm
+fastMatch size:899
+H1to2p
+E:\algorithm\parts\part2\trees\img1.ppm##########E:\algorithm\parts\part2\trees\img4.ppm
+fastMatch size:899
+H1to4p
+minCount£º2538
+correspondencesCount£º275
+correctMatch250
+falseMatch649
+E:\algorithm\parts\part2\trees\img1.ppm##########E:\algorithm\parts\part2\trees\img5.ppm
+fastMatch size:2284
+H1to5p
+minCount£º2538
+correspondencesCount£º10
+correctMatch1
+falseMatch2283

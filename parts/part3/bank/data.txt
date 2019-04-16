@@ -1,0 +1,14 @@
+E:\algorithm\parts\part2\bank\01.png##########E:\algorithm\parts\part2\bank\02.png
+fastMatch size:704
+H1to2p
+minCount£º836
+correspondencesCount£º226
+correctMatch2
+falseMatch702
+E:\algorithm\parts\part2\bank\01.png##########E:\algorithm\parts\part2\bank\02.png
+fastMatch size:132
+H1to2p
+minCount£º879
+correspondencesCount£º58
+correctMatch0
+falseMatch132

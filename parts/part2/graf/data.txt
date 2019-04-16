@@ -1,0 +1,10 @@
+E:\algorithm\parts\part2\graf\img1.ppm##########E:\algorithm\parts\part2\graf\img2.ppm
+fastMatch size:707
+H1to2p
+minCount£º823
+correspondencesCount£º688
+correctMatch515
+falseMatch192
+
+
+

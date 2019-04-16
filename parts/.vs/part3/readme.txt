@@ -1,0 +1,4 @@
+主要是改进的ransac：通过随机计算出来的模型，将4个固定点进行映射，则记录映射后的点与先前的是否存在冲突，存在冲突的话，则进行投影误差的计算，不冲突的话，则保存映射后点的数值，再随机选点计算模型。
+_modelest_JW.h、calib3d_jw.hpp、fundam_jw.cpp、modelest.cpp:改进ransac算法的代码，使用时只需要增加命名空间的使用，则可以区别开opencv自带的ransac和本改进方法。
+ransac.m:是求解迭代次数的曲线的matlab代码
+时间.xls:传统ransac与改进ransc原始时间数据对比

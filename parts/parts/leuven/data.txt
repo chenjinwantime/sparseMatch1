@@ -1,0 +1,31 @@
+img1.ppm  img2.ppm
+fastMatch size:828
+H1to2p
+minCount£º1000
+correspondencesCount£º869
+correctMatch735
+falseMatch93
+
+img1.ppm  img3.ppm
+fastMatch size:711
+H1to3p
+minCount£º1000
+correspondencesCount£º794
+correctMatch617
+falseMatch94
+
+img1.ppm  img4.ppm
+fastMatch size:674
+H1to4p
+minCount£º1000
+correspondencesCount£º745
+correctMatch566
+falseMatch108
+
+img1.ppm  img5.ppm
+fastMatch size:638
+H1to5p
+minCount£º1000
+correspondencesCount£º721
+correctMatch524
+falseMatch114

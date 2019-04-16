@@ -1,0 +1,51 @@
+img1.ppm  img2.ppm
+fastMatch size:870
+H1to2p
+minCount£º983
+correspondencesCount£º863
+correctMatch775
+falseMatch95
+
+img1.ppm  img3.ppm
+fastMatch size:818
+H1to3p
+minCount£º1000
+correspondencesCount£º792
+correctMatch634
+falseMatch184
+
+img1.ppm  img4.ppm
+fastMatch size:90
+H1to4p
+minCount£º981
+correspondencesCount£º62
+correctMatch0
+falseMatch90
+img1.ppm  img4.ppm
+fastMatch size:90
+H1to4p
+minCount£º981
+correspondencesCount£º62
+correctMatch0
+falseMatch90
+img1.ppm  img4.ppm
+fastMatch size:99
+H1to4p
+minCount£º981
+correspondencesCount£º94
+correctMatch0
+falseMatch99
+img1.ppm  img4.ppm
+fastMatch size:9
+H1to4p
+minCount£º981
+correspondencesCount£º9
+correctMatch0
+falseMatch9
+img1.ppm  img4.ppm
+fastMatch size:40
+H1to4p
+minCount£º981
+correspondencesCount£º28
+correctMatch0
+falseMatch40
